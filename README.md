@@ -3,7 +3,7 @@
 This project builds machine learning models to predict car prices based on various technical and market features. The goal is to help understand which factors most strongly influence automobile pricing in the US market and develop an accurate predictive model.
 
 ## 📂 Project Contents
-- `Car Price Assignment.csv` — Dataset used for training and evaluation  
+- `Dataset.csv` — Dataset used for training and evaluation  
 - `Car_Price_Prediction.ipynb` — Google Colab notebook containing the full workflow
 
 ## 🎯 Objectives
